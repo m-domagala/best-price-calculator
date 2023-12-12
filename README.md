@@ -1,5 +1,6 @@
 # An application that calculates the best price for the customer
 ## Tech: React.js, TypeScript
+## Preview (without json-server): https://m-domagala.github.io/best-price-calculator-gh/
 ## Run "npm run dev" to start json-server and dev server
 ## Goal: Create an application and design a database following the rules and the prices below
 
